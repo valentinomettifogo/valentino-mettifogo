@@ -1,41 +1,19 @@
 <template>
-    <article>
-        <h1>We&rsquo;ll be back soon!</h1>
-        <div>
-            <p>Sorry for the inconvenience but we&rsquo;re performing some maintenance at the moment. We&rsquo;ll be back online shortly!</p>
+    <div class="card w-50 mx-auto mt-5 border-0">
+        <img src="/images/under-maintenance.png" class="card-img-top" alt="Designed by stories / Freepik">
+        <div class="card-body">
+            <h1 class="card-title">I&rsquo;ll be back soon!</h1>
+            <p class="card-text">Sorry for the inconvenience but I&rsquo;m performing some maintenance at the moment.
+                I&rsquo;ll be back online shortly!</p>
             <p>&mdash; Valentino</p>
         </div>
-    </article>
+    </div>
 </template>
 
 <style>
-body {
-    text-align: center;
-    padding: 150px;
+.card-img-top {
+    object-fit:scale-down;
+    width: 100%;
+    height: 500px;
 }
-
-h1 {
-    font-size: 50px;
-}
-
-body {
-    font: 20px Helvetica, sans-serif;
-    color: #333;
-}
-
-article {
-    display: block;
-    text-align: left;
-    width: 650px;
-    margin: 0 auto;
-}
-
-a {
-    color: #dc8100;
-    text-decoration: none;
-}
-
-a:hover {
-    color: #333;
-    text-decoration: none;
-}</style>
+</style>
