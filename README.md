@@ -1,36 +1,22 @@
-# valentino-porfolio
-# i-am-project
+# valentino-portfolio
 
-This template should help get you started developing with Vue 3 in Vite.
+My personal Porfolio website
 
-## Recommended IDE Setup
+## Authors
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- [@valentinomettifogo](https://github.com/valentinomettifogo)
 
-## Customize configuration
+## Screenshot
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+WIP
 
-## Project Setup
+## Roadmap
 
-```sh
-npm install
-```
+- TBD
 
-### Compile and Hot-Reload for Development
+## Tools
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+ - [VueJs](https://vuejs.org/)
+ - [Bootstrap](https://getbootstrap.com/)
+ - [Vercel](https://vercel.com/)
+ - [heymeta](https://www.heymeta.com/)
