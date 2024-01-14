@@ -1,6 +1,6 @@
 <script setup>
-import GolangIcon from '@/components/icons/GolangIcon.vue'
-import GithubIcon from '@//components/icons/GithubIcon.vue'
+// import GolangIcon from '@/components/icons/GolangIcon.vue'
+// import GithubIcon from '@//components/icons/GithubIcon.vue'
 </script>
 
 <template>
@@ -18,7 +18,7 @@ import GithubIcon from '@//components/icons/GithubIcon.vue'
         <div class="row row-cols-1 row-cols-sm-2 g-4">
           <div class="col d-flex flex-column gap-2">
             <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
-              <GolangIcon />
+              <!-- <GolangIcon /> -->
             </div>
             <h4 class="fw-semibold mb-0 text-body-emphasis">Featured title</h4>
             <p class="text-body-secondary">Paragraph of text beneath the heading to explain the heading.</p>
@@ -26,7 +26,7 @@ import GithubIcon from '@//components/icons/GithubIcon.vue'
 
           <div class="col d-flex flex-column gap-2">
             <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
-              <GithubIcon />
+              <!-- <GithubIcon /> -->
             </div>
             <h4 class="fw-semibold mb-0 text-body-emphasis">Featured title</h4>
             <p class="text-body-secondary">Paragraph of text beneath the heading to explain the heading.</p>

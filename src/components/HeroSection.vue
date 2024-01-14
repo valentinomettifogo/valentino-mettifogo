@@ -1,7 +1,7 @@
 <template>
     <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
         <div class="col-12 col-lg-8">
-            <img src="/images/cover.jpg" class="d-block mx-lg-auto img-fluid rounded" alt="Bootstrap Themes" width="700"
+            <img src="/images/cover.jpeg" class="d-block mx-lg-auto img-fluid rounded" alt="Bootstrap Themes" width="700"
                 height="500" loading="lazy">
         </div>
         <div class="col-lg-4">
