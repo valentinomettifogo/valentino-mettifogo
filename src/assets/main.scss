@@ -1,0 +1,31 @@
+// Palette
+$light-green: #85e89dff;
+$lavender-blush: #f7edf0ff;
+$drab-dark-brown: #3e442bff;
+$ebony: #6a7062ff;
+$barn-red: #720e07ff;
+
+$primary: $light-green;
+$secondary: $barn-red;
+// $success: ;
+// $info: ;
+// $warning: ;
+// $danger: ;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+* {
+    text-align: justify;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    background-color: $lavender-blush;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'inter', sans-serif;
+}
