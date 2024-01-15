@@ -22,6 +22,9 @@ import { RouterLink } from 'vue-router'
                     <li class="nav-item">
                         <a class="nav-link" href="#contact-section">Contact</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://github.com/valentinomettifogo/valentino-mettifogo" target="_blank">This repository</a>
+                    </li>
                 </ul>
             </div>
         </div>
