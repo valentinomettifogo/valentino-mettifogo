@@ -24,13 +24,6 @@
                         <h5 class="card-title">ETL across different ERPs</h5>
                         <p class="card-text">Collaborated with multiple teams to integrate different systems and data
                             exchange</p>
-                        <!-- <div class="d-flex justify-content-between align-items-center">
-                            <div class="btn-group">
-                                <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                            </div>
-                            <small class="text-body-secondary">9 mins</small>
-                        </div> -->
                     </div>
                 </div>
             </div>
@@ -40,15 +33,8 @@
                     <img src="/images/placeholder.jpg" alt="Placeholder">
                     <div class="card-body">
                         <h5 class="card-title">Qlik Sense Extensions</h5>
-                        <p class="card-text">Develop customize Qlik Sense Exteensions based on client requests and needed
+                        <p class="card-text">Develop customize Qlik Sense Exteensions based on client requests and needed. This is the reason why I approach web dev
                         </p>
-                        <!-- <div class="d-flex justify-content-between align-items-center">
-                            <div class="btn-group">
-                                <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                            </div>
-                            <small class="text-body-secondary">9 mins</small>
-                        </div> -->
                     </div>
                 </div>
             </div>
@@ -60,17 +46,11 @@
                         <h5 class="card-title">Custom Reporting</h5>
                         <p class="card-text">Strategic Data Distributor: Tailoring Insights Across Platforms and Audiences
                         </p>
-                        <!-- <div class="d-flex justify-content-between align-items-center">
-                            <div class="btn-group">
-                                <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                            </div>
-                            <small class="text-body-secondary">9 mins</small>
-                        </div> -->
                     </div>
                 </div>
             </div>
 
         </div>
 
-</div></template>
+    </div>
+</template>
