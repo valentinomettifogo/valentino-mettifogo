@@ -1,65 +1,49 @@
 <script setup>
-// import GolangIcon from '@/components/icons/GolangIcon.vue'
-// import GithubIcon from '@//components/icons/GithubIcon.vue'
+import EmailIcon from './icons/EmailIcon.vue';
+import LinkedinIcon from './icons/LinkedinIcon.vue';
+import GithubIcon from './icons/GithubIcon.vue';
 </script>
 
 <template>
-    <div class="container px-4 py-5">
-    <h2 class="pb-2 border-bottom">About this site</h2>
+  <div class="container px-4 py-5" id="contact-section">
+    <h2 class="pb-2 border-bottom ps-5">Get in touch</h2>
 
-    <div class="row row-cols-1 row-cols-md-2 align-items-md-center g-5 py-5">
-      <div class="col d-flex flex-column align-items-start gap-2">
-        <h2 class="fw-bold text-body-emphasis">Want to text me?</h2>
-        <p class="text-body-secondary">If you want to text me or give me a feedback you can contact me with the following botton</p>
-        <a href="#" class="btn btn-primary btn-lg">Contact me</a>
+    <div class="row mt-5 align-items-center">
+
+      <div class="col-5">
+        <img src="/images/mail.png" alt="Sending mail" class="img-fluid">
       </div>
+
+      <div class="col-1"></div>
 
       <div class="col">
-        <div class="row row-cols-1 row-cols-sm-2 g-4">
-          <div class="col d-flex flex-column gap-2">
-            <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
-              <!-- <GolangIcon /> -->
-            </div>
-            <h4 class="fw-semibold mb-0 text-body-emphasis">Featured title</h4>
-            <p class="text-body-secondary">Paragraph of text beneath the heading to explain the heading.</p>
-          </div>
-
-          <div class="col d-flex flex-column gap-2">
-            <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
-              <!-- <GithubIcon /> -->
-            </div>
-            <h4 class="fw-semibold mb-0 text-body-emphasis">Featured title</h4>
-            <p class="text-body-secondary">Paragraph of text beneath the heading to explain the heading.</p>
-          </div>
-
-          <div class="col d-flex flex-column gap-2">
-            <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
-              <svg class="bi" width="1em" height="1em">
-                <use xlink:href="#speedometer"></use>
-              </svg>
-            </div>
-            <h4 class="fw-semibold mb-0 text-body-emphasis">Featured title</h4>
-            <p class="text-body-secondary">Paragraph of text beneath the heading to explain the heading.</p>
-          </div>
-
-          <div class="col d-flex flex-column gap-2">
-            <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
-              <svg class="bi" width="1em" height="1em">
-                <use xlink:href="#table"></use>
-              </svg>
-            </div>
-            <h4 class="fw-semibold mb-0 text-body-emphasis">Featured title</h4>
-            <p class="text-body-secondary">Paragraph of text beneath the heading to explain the heading.</p>
-          </div>
+        <div class="my-4">
+          <p>I'm not using social much but you can contact me in the following channel</p>
+        </div>
+        <div class="my-3">
+          <a href="mailto:valentino.mettifogo@gmail.com" target="_blank">
+            <EmailIcon height="48" width="48" /><span class="ms-3">valentino.mettifogo@gmail.com</span>
+          </a>
+        </div>
+        <div class="my-3">
+          <a href="http://linkedin.com/in/valentino-mettifogo/" target="_blank" rel="noopener noreferrer">
+            <LinkedinIcon height="48" width="48" /><span class="ms-3">valentino-mettifogo</span>
+          </a>
+        </div>
+        <div class="my-3">
+          <a href="https://github.com/valentinomettifogo" target="_blank" rel="noopener noreferrer">
+            <GithubIcon height="48" width="48" /><span class="ms-3">valentinomettifogo</span>
+          </a>
         </div>
       </div>
+
     </div>
   </div>
 </template>
 
-<style>
-.feature-icon-small {
-    width: 3rem;
-    height: 3rem;
+<style scoped>
+a {
+  color: inherit;
+  text-decoration: inherit;
 }
 </style>

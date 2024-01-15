@@ -14,13 +14,16 @@ import { RouterLink } from 'vue-router'
             <div class="collapse navbar-collapse justify-content-end" id="navbarText">
                 <ul class="navbar-nav mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <RouterLink to="/" class="nav-link">Home</RouterLink>
+                        <a class="nav-link" href="#aboutme-section">About Me</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#work-section">Work</a>
+                        <a class="nav-link" href="#work-section">My Experience</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#contact-section">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://github.com/valentinomettifogo/valentino-mettifogo" target="_blank">This repository</a>
                     </li>
                 </ul>
             </div>
