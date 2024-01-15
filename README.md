@@ -13,6 +13,7 @@ WIP
 ## Roadmap - Todo
 
 - [ ] Find good pictures
+- [ ] add a roadmap in about me
 - [ ] Fix work section
 - [ ] Fix contact me section
 - [ ] Some more privacy?
