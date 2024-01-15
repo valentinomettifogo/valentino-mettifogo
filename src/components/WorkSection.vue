@@ -3,16 +3,16 @@
         <section class="py-2 mt-3">
             <h2 class="pb-2 border-bottom ps-5 mt-3">My work exeprience</h2>
             <div class="mt-4">
-                <p class="lead text-body-secondary">Passionate Web and Business Intelligence Developer I'm specializing
+                <p class="text-body-secondary">Passionate Web and Business Intelligence Developer I'm specializing
                     in Qlik's Software.
                     With a keen eye for transforming raw data into meaningful insights,
                     my expertise lies in the realms of ETL (Extract, Transform, Load) processes and crafting dynamic
                     dashboards.</p>
-                <p class="lead text-body-secondary">Down here you can find some of the interesting things I do at work
+                <p class="text-body-secondary">Down here you can find some of the interesting things I do at work
                     (I'll leave the boring ones for another time ok?)</p>
             </div>
             <div>
-                <p class="mt-5"><strong>Under construction, please give me a few days 😊</strong></p>
+                <p class="mt-5 lead"><strong>Under construction, please give me a few days 😊</strong></p>
             </div>
         </section>
 
