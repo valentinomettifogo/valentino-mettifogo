@@ -10,9 +10,12 @@ My personal Porfolio website
 
 WIP
 
-## Roadmap
+## Roadmap - Todo
 
-- TBD
+- [ ] Find good pictures
+- [ ] Fix work section
+- [ ] Fix contact me section
+- [ ] Some more privacy?
 
 ## Tools
 
